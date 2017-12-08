@@ -4,10 +4,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/language-HTML--CSS--JavaScript-green.svg">
   <img src="https://img.shields.io/badge/v8-javascriptengine-ff69b4.svg">
-  <img src="https://img.shields.io/badge/web-togo-orange.svg">
   <img src="https://img.shields.io/badge/license-MIT-ccc.svg">
   <img src="https://img.shields.io/badge/Don't-Panic-ff69b4.svg">
-  <img src="https://img.shields.io/badge/stroller-0.1.1-ded76a.svg">
+  <img src="https://img.shields.io/badge/v8-node-ded76a.svg">
 </p>
 
 ### 目录
